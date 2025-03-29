@@ -112,10 +112,11 @@ The build artifacts will be stored in the `dist/` directory.
 3. Error handling:
    - The application includes basic error handling
    - For production, implement more comprehensive error tracking
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📄 License
+## 📸 Snapshots
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/9fc57f28-cc5c-4937-91f1-d8ecc06f14a0)
+
+![image](https://github.com/user-attachments/assets/3bf7580a-f3c4-493e-80f4-3f4735efd7de)
+
+
